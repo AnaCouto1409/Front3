@@ -61,13 +61,8 @@ Ver Desenvolvimento.
 API
 A API que será utilizada será: https://dhodonto.ctdprojetos.com.br/
 
-Rota com a documentação (Swagger) da API para https://dhodonto.ctdprojetos.com.br/swagger-ui/index.html
+Rota com a documentação (Swagger) da API para https://cafe.com/cafeteria
 
-Rota para buscar os dentistas: https://dhodonto.ctdprojetos.com.br/dentista
-
-Rota para buscar os pacientes: https://dhodonto.ctdprojetos.com.br/paciente
-
-Rota para o login https://dhodonto.ctdprojetos.com.br/auth
 
 Entrega
 Formato de Entrega
